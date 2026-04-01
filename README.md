@@ -1,5 +1,5 @@
 # powerbi-seasonal-revenue-insights
-This project presents a Power BI dashboard analyzing seasonal sales trends, product performance, and regional revenue insights. It helps businesses understand revenue fluctuations, identify growth opportunities, and make data-driven decisions,Download the Datasets[Download here](https://drive.google.com/drive/u/0/folders/1ERnKrtUAi5apTJkIlLSla_ztrpz3L__z).
+This project presents a Power BI dashboard analyzing seasonal sales trends, product performance, and regional revenue insights. It helps businesses understand revenue fluctuations, identify growth opportunities, and make data-driven decisions.
 
 # 📊 Seasonal Sales Analytics Dashboard
 
@@ -92,11 +92,7 @@ This dashboard provides an **interactive and dynamic analysis** of sales data, e
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Screenshot](./assets/dashboard.png)
-
-> *(Replace this path with your actual image location in the repo)*
-
----
+[Dataset & Dashboard Screenshot & pbix files](https://drive.google.com/drive/u/0/folders/1ERnKrtUAi5apTJkIlLSla_ztrpz3L__z)
 
 ## 🧰 Tools & Technologies
 

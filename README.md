@@ -158,29 +158,11 @@ DIVIDE(
 )
 ```
 
----
 
-## 🗂 Repository Structure
-
-```
-powerbi-seasonal-revenue-insights/
-├── README.md                        # Project documentation
-├── Seasonal Sales Dashboard.pbit    # Power BI template file
-└── Seasonal Sales Dashboard.png     # Dashboard screenshot
-```
 
 ---
 
-## 🚀 How to Use
 
-1. Download or clone this repository:
-   ```bash
-   git clone https://github.com/khalil24-DA/powerbi-seasonal-revenue-insights.git
-   ```
-2. Open **Power BI Desktop**.
-3. Open `Seasonal Sales Dashboard.pbit` (File → Open).
-4. When prompted, point the template to your sales data (Excel/CSV) with the columns listed in [Dataset Description](#-dataset-description).
-5. Refresh the report and explore the KPIs, charts, and slicers.
 
 ---
 
@@ -189,4 +171,3 @@ powerbi-seasonal-revenue-insights/
 **Khalil**
 GitHub: [@khalil24-DA](https://github.com/khalil24-DA)
 
-⭐ If you found this project useful, please consider giving it a star!
